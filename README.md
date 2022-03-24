@@ -351,6 +351,6 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 
-## Authors
+## Author
 Natnael Fikadu - [Github](https://github.com/mrnpro)  
 
